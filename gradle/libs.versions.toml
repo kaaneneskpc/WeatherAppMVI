@@ -29,6 +29,7 @@ truth = "1.4.2"
 testCore = "1.6.1"
 coreTesting = "2.2.0"
 mockk = "1.13.10"
+ui = "1.7.3"
 uiTestManifest = "1.6.8"
 
 extJunit = "1.2.1"
