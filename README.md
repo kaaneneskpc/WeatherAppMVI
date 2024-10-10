@@ -1,6 +1,6 @@
 # Weather App
 
-- ###  This project about Weather App with MVI.
+- ###  This project about Weather App with MVI Design Pattern.
 
 </br>
 
